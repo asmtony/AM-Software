@@ -1,5 +1,0 @@
-C:\Users\asmto\source\repos\StockTrackWebApi\StockTrack.Entities\obj\Debug\StockTrack.Entities.csproj.CoreCompileInputs.cache
-C:\Users\asmto\source\repos\StockTrackWebApi\StockTrack.Entities\bin\Debug\StockTrack.Entities.dll
-C:\Users\asmto\source\repos\StockTrackWebApi\StockTrack.Entities\bin\Debug\StockTrack.Entities.pdb
-C:\Users\asmto\source\repos\StockTrackWebApi\StockTrack.Entities\obj\Debug\StockTrack.Entities.dll
-C:\Users\asmto\source\repos\StockTrackWebApi\StockTrack.Entities\obj\Debug\StockTrack.Entities.pdb

@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackWebApi", "StockTrackWebApi\StockTrackWebApi.csproj", "{00DA79F5-0D08-4A1C-8315-D7BDD294C1F5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackWebApi.Tests", "StockTrackWebApi.Tests\StockTrackWebApi.Tests.csproj", "{B492CBA5-0CB5-4B18-B983-6C67CB638697}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrack.Entities", "StockTrack.Entities\StockTrack.Entities.csproj", "{17DE6B4F-B154-4160-A707-6188B8A31C77}"
-EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StockTrack.Database", "StockTrack.Database\StockTrack.Database.sqlproj", "{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackCoreWebApiReactRedux", "StockTrackCoreWebApiReactRedux\StockTrackCoreWebApiReactRedux.csproj", "{3C61C9A7-3E23-4A0A-B979-7CCA0720D1CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackCoreWebApiReactReduxDLL", "StockTrackCoreWebApiReactReduxDLL\StockTrackCoreWebApiReactReduxDLL.csproj", "{AF87B87B-89C0-43DE-98F7-DAA3CAB80C61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackCoreWebApiReactReduxDAL", "StockTrackCoreWebApiReactReduxDAL\StockTrackCoreWebApiReactReduxDAL.csproj", "{D5012BE5-66FD-4B9D-9DD3-AB4637F76550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackAspNetCore", "StockTrackAspNetCore\StockTrackAspNetCore.csproj", "{7CDB1B81-2138-4138-8102-08008727A507}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackAspNetCore.Models", "StockTrackAspNetCore.Models\StockTrackAspNetCore.Models.csproj", "{099487BB-E44F-40E0-9928-4BCC967B5E8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackAspNetCore.Database", "StockTrackAspNetCore.Database\StockTrackAspNetCore.Database.csproj", "{0592678C-D432-4517-BD59-646F027463C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackAspNetCore.Tests", "StockTrackAspNetCore.Tests\StockTrackAspNetCore.Tests.csproj", "{0E8468AD-14B3-424F-A463-1E3E98B9C81F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,24 +25,40 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{00DA79F5-0D08-4A1C-8315-D7BDD294C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00DA79F5-0D08-4A1C-8315-D7BDD294C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00DA79F5-0D08-4A1C-8315-D7BDD294C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00DA79F5-0D08-4A1C-8315-D7BDD294C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B492CBA5-0CB5-4B18-B983-6C67CB638697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B492CBA5-0CB5-4B18-B983-6C67CB638697}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B492CBA5-0CB5-4B18-B983-6C67CB638697}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B492CBA5-0CB5-4B18-B983-6C67CB638697}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17DE6B4F-B154-4160-A707-6188B8A31C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17DE6B4F-B154-4160-A707-6188B8A31C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17DE6B4F-B154-4160-A707-6188B8A31C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17DE6B4F-B154-4160-A707-6188B8A31C77}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E1B2C141-8047-4982-8FCA-71C8CAC2E20E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3C61C9A7-3E23-4A0A-B979-7CCA0720D1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C61C9A7-3E23-4A0A-B979-7CCA0720D1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C61C9A7-3E23-4A0A-B979-7CCA0720D1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C61C9A7-3E23-4A0A-B979-7CCA0720D1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF87B87B-89C0-43DE-98F7-DAA3CAB80C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF87B87B-89C0-43DE-98F7-DAA3CAB80C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF87B87B-89C0-43DE-98F7-DAA3CAB80C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF87B87B-89C0-43DE-98F7-DAA3CAB80C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5012BE5-66FD-4B9D-9DD3-AB4637F76550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5012BE5-66FD-4B9D-9DD3-AB4637F76550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5012BE5-66FD-4B9D-9DD3-AB4637F76550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5012BE5-66FD-4B9D-9DD3-AB4637F76550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDB1B81-2138-4138-8102-08008727A507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDB1B81-2138-4138-8102-08008727A507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDB1B81-2138-4138-8102-08008727A507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDB1B81-2138-4138-8102-08008727A507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099487BB-E44F-40E0-9928-4BCC967B5E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099487BB-E44F-40E0-9928-4BCC967B5E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099487BB-E44F-40E0-9928-4BCC967B5E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099487BB-E44F-40E0-9928-4BCC967B5E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0592678C-D432-4517-BD59-646F027463C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0592678C-D432-4517-BD59-646F027463C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0592678C-D432-4517-BD59-646F027463C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0592678C-D432-4517-BD59-646F027463C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8468AD-14B3-424F-A463-1E3E98B9C81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8468AD-14B3-424F-A463-1E3E98B9C81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8468AD-14B3-424F-A463-1E3E98B9C81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8468AD-14B3-424F-A463-1E3E98B9C81F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

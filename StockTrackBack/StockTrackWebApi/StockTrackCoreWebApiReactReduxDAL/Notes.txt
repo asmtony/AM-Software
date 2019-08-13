@@ -1,0 +1,11 @@
+﻿/********************************************************************************************
+To create the entity Models
+If any migration tables in database, delete
+then
+In nuget install - Microsoft.EntityFrameworkCore.Tools & Microsoft.EntityFrameworkCore.SqlServer
+unload all projects except the database one
+In package manager console run
+scaffold-dbcontext "server=DESKTOP-5TIMTU6;database=ASMTest;trusted_connection=True;" Microsoft.EntityFrameworkCore.SqlServer -outputdir EntityModels
+
+This will create the a folder (EntityModels) with the context and all the entities that exist in the database
+**********************************************************************************************/

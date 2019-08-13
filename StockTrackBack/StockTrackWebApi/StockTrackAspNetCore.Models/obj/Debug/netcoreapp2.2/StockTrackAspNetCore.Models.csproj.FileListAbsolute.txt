@@ -1,0 +1,12 @@
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.deps.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.csproj.CoreCompileInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.AssemblyInfoInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.AssemblyInfo.cs
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.csprojAssemblyReference.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Models\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Models.csproj.CopyComplete

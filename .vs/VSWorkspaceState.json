@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StockTrackBack",
+    "\\StockTrackBack\\StockTrackWebApi",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrack.Database",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore.Models",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore.Models\\Services",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj\\Debug",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj\\Debug\\netcoreapp2.2",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj\\Debug\\netcoreapp2.2\\Razor",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj\\Debug\\netcoreapp2.2\\Razor\\Views",
+    "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore\\obj\\Debug\\netcoreapp2.2\\Razor\\Views\\Products"
+  ],
+  "SelectedNode": "\\StockTrackBack\\StockTrackWebApi\\StockTrackAspNetCore.Models\\Services\\IProductService.cs",
+  "PreviewInSolutionExplorer": false
+}

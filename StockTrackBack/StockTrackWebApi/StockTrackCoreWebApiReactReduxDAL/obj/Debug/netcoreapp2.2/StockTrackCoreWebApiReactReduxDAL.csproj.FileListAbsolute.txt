@@ -1,0 +1,11 @@
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\bin\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.deps.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\bin\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.csproj.CoreCompileInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.AssemblyInfoInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.AssemblyInfo.cs
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\bin\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.runtimeconfig.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\bin\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.runtimeconfig.dev.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\bin\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackCoreWebApiReactReduxDAL\obj\Debug\netcoreapp2.2\StockTrackCoreWebApiReactReduxDAL.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.deps.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.csproj.CoreCompileInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.AssemblyInfoInputs.cache
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.AssemblyInfo.cs
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.runtimeconfig.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.runtimeconfig.dev.json
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\bin\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrackAspNetCore.Database\obj\Debug\netcoreapp2.2\StockTrackAspNetCore.Database.pdb

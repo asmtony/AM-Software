@@ -1,0 +1,9 @@
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\bin\Debug\StockTrack.Database.dacpac
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\bin\Debug\StockTrack.Database.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\bin\Debug\StockTrack.Database.pdb
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\Model.xml
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\refactor.xml
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\postdeploy.sql
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\predeploy.sql
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\StockTrack.Database.dll
+C:\Dev\Git\stocktrack\StockTrackBack\StockTrackWebApi\StockTrack.Database\obj\Debug\StockTrack.Database.pdb
